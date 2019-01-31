@@ -1,0 +1,2 @@
+# A-Sip-of-Wine-Wine-Quality-Predictor
+A Sip of Wine is a wine quality predictor. Various algorithms like Decision Tree classifier, gradient boosting classifier and random forest classifier were used to make predictions. Based on various evaluation metrics, the GBM tree classifier emerged as the favoured classifier with an F score of 89%. A feature analysis was also done to show the most relevant features for making prediction.
